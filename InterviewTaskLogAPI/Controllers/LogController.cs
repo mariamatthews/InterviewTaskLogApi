@@ -28,16 +28,9 @@ namespace InterviewTaskLogAPI.Controllers
         [HttpPost]
         public ContentResult Post([FromBody] InputLog inputLog)
         {
-            try
-            {
                 // as little logic in the controller as possible
                 return Content(_businessLogic.ProcessLog(inputLog).ToString());
-            }
-            catch
-            {
                 return Content("false");
-            }
-            
         }
     }
 }
