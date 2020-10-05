@@ -30,7 +30,6 @@ namespace InterviewTaskLogAPI.Controllers
         {
                 // as little logic in the controller as possible
                 return Content(_businessLogic.ProcessLog(inputLog).ToString());
-                return Content("false");
         }
     }
 }
