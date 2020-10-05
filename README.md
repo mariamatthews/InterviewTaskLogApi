@@ -19,6 +19,6 @@ For quick check and to experience the functionality of the app, please visit htt
 
 ## Software overview video
 
-https://www.youtube.com/v/linktovideo
+https://www.youtube.com/watch?v=iEfY1K7D6k8
 
 > Written with [StackEdit](https://stackedit.io/).
