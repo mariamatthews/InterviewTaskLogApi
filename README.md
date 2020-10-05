@@ -11,6 +11,12 @@ Hi and welcome. This is a readme file for the Git repository I have created usin
 
 The documentation for the software is hosted on confluence and can be found under https://interviewtestapi.atlassian.net/wiki/spaces/INTERVIEWA/overview
 
+## Test the API
+
+**API URL**: `https://interviewtasklogapi.azurewebsites.net/log/api/`
+
+For quick check and to experience the functionality of the app, please visit https://apitester.com/shared/checks/0291645e387140f18abce033d74db8c7 and run the test.
+
 ## Software overview video
 
 https://www.youtube.com/v/linktovideo
