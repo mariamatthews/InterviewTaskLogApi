@@ -2,6 +2,10 @@
 
 Hi and welcome. This is a readme file for the Git repository I have created using stackedit.io which has allowed me to write in Markup quickly in a easily readable format.
 
+**TASK**: "Using .NET, develop a microservice exposing an API that writes log messages from external services to a text file. The messages are to include an id, a date and up to 255 characters of text."
+
+**Completion Time (including videos, documentation): 2 days**
+
 ## Table of contents
 
 1. [Documentation](##Glossary)
